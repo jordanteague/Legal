@@ -1,0 +1,30 @@
+Multisig Services Agreement
+This Multisig Services Agreement is effective ___________ and is entered into between _______ (the “Company”) and _______(“Signer”) (collectively, the “Parties”).
+Recitals
+WHEREAS, the Company utilizes one or more multisignature smart contract vaults identified on Exhibit “A” (“Multisigs”) in connection with its operations; and
+
+
+WHEREAS, Company requires multiple signers on the Multisigs for security purposes; and
+
+
+WHEREAS, as a courtesy to Company, Signer has agreed to assist as a signer on the Multisigs on the terms and conditions herein.
+
+
+NOW THEREFORE, the Parties hereby agree as follows:
+Agreement
+1. The Addresses.
+   a. Signer will generate one or more Ethereum key pairs (“Addresses”) using a hardware device provided by Company and disclose the public keys for the Addresses to Company.  Company shall cause the Addresses to be added as signatories on the Multisigs.
+   b. Signer shall use the Addresses solely for signing and executing transactions on the Multisigs.
+   c. Signer will use reasonable efforts to maintain the security of the private keys associated with the Addresses, which, at a minimum, shall include:
+      1. Using an encrypted hardware device, such as a Ledger, to store the private keys for the Addresses;
+      2. Keeping one offline, non-digital copy of the seed phrases for the Addresses, such as by writing the seed phrases on paper; and
+      3. Never typing the seed phrases for the Addresses while using a computer with internet connectivity.
+   d. Both Signer and Company will use reasonable efforts to maintain the anonymity of the private keys.  To further this goal, Signer shall not send any digital assets to the Addresses.  Company will, as needed, fund the Addresses with ETH to be used to pay gas when executing transactions.
+2. Transactions.
+   a. Frequency.  From time to time, Company may request that Signer sign and/or execute transactions through the Multisigs which were initiated by Company (each, a “Transaction”).  Company agrees that, except in the case of emergency Transactions, such requests will occur no more frequently than once per month and will be communicated to Signer at least two weeks in advance.
+   b. Verification of Transactions.  Company acknowledges and agrees that it shall be Company’s duty to ensure that all Transactions are correct and lawful.  Signer shall not have a duty to independently verify the correctness of a Transaction.  However, Signer shall have an unconditional right to refuse to sign a Transaction if Signer believes, in good faith, that a Transaction is not for a lawful purpose.  Signer shall also have the right, but not the obligation, to request information from the Company regarding any Transaction.
+3. Limitation of Signer’s liability.  Except in the case of Signer’s willful, malicious conduct, Signer shall not be liable to Company for any damages arising out of or related to this Agreement.  Without limiting the foregoing, Signer shall not be liable to Company for damages arising out of or related to the loss, security breach, or deanonymizing of private keys for the Addresses, or any delays in a Transaction being signed or executed.
+4. Indemnification by Company.  Company agrees to indemnify, defend, and hold harmless Signer from any and all actual or threatened third party claims, regulatory actions, or tax assessments arising out of or related to the Multisigs, the Addresses, or the Transactions.
+5. No Entitlement to Funds.  The parties acknowledge and agree that Signer has no personal entitlement to any funds controlled by the Multisig except as may be provided in a separate agreement.  
+6. Arbitration.  All disputes arising out of or in connection with this agreement shall be finally settled by binding arbitration under the rules of arbitration of the International Chamber of Commerce by a single arbitrator appointed in accordance with said rules. Unless the parties otherwise mutually agree, such arbitration shall be conducted in the English language by electronic exchange of documents and by videoconference. The arbitrator shall issue a reasoned decision, including findings of fact and conclusions of law.  Notwithstanding the foregoing, the Foundation may bring a court proceeding seeking equitable or injunctive relief to prevent the infringement of intellectual property rights, the disclosure of confidential information or the unlawful processing or transmission of data.
+7. Entire Agreement.  This Agreement sets forth the entire agreement and understanding of the parties relating to the subject matter herein and supersedes all prior or contemporaneous discussions, understandings and agreements, whether oral or written, between them relating to the subject matter hereof.
