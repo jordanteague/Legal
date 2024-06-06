@@ -1,3 +1,7 @@
+#########################################################################################################
+Example Multisig Services Agreement intended for scenario in which signers gratuitously agree to sit on multisig for an organization. Different terms may be desired if participation is paid or part of existing duties to organization under contract or employment agreement.
+#########################################################################################################
+
 Multisig Services Agreement
 This Multisig Services Agreement is effective ___________ and is entered into between _______ (the “Company”) and _______(“Signer”) (collectively, the “Parties”).
 Recitals
