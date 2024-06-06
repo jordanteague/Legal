@@ -1,0 +1,21 @@
+﻿Issues to address in a multisig
+* Opsec requirements
+   * Hardware wallet required? If so, who will provide and who owns?
+   * Hot wallet ok, just no browser wallet?
+   * Storage of seed phrase?
+   * Use “fresh” addresses that are only used for the company multisigs
+   * Measures required to preserve anonymity of addresses? (such as only company provides ETH for gas, from company wallet)
+* Obligations
+   * Limit frequency of transactions?
+   * Advance notice required for off-cycle transactions? (because people travel)
+   * Urgent transactions - who is responsible if company misses an opportunity because transaction signing was delayed?
+   * Exclude time sensitive transactions from scope?
+* Risk allocation
+   * Who is responsible for verifying accuracy of details of transactions? (i.e., is signer’s role merely security vs. being part of the finance/accounting department?)
+   * Who is responsible for verifying if a transaction is lawful (ex., not in violation of OFAC sanctions)?
+   * Who is responsible if signer loses seed phrase and that in turn results in company losing access to multisig funds?
+   * Does signer have an absolute obligation to sign any transaction presented to it? If not, under what circumstances may signer decline to sign?
+   * Indemnification of signer by company?
+   * Indemnification of company by signer?
+* Ownership of/entitlement to multisig funds
+   * If signer has no entitlement to funds, clarify so that multisig isn’t deemed a tax partnership
